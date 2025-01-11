@@ -22,7 +22,7 @@
     font-size: 2em;
 }
 .container  .sec{
-  width:  30%;
+  width:  50%;
   display: inline-flex;
   flex-direction: column;
   padding: 20px;
